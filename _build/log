@@ -1,0 +1,5 @@
+# dune init proj gtd
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: /Users/dikaio/Desktop/gtd
+# Auto-detected concurrency: 10
